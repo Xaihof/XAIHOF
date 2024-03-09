@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="http://readme-typing-svg.herokuapp.com/?
     font=Righteous&size=35center=true&vCenter=true&width=700&height=70&duration=3500&lines=Hi!;+I+am+XAIHOF.;+Welcome+to+XOKSIS.;" />
