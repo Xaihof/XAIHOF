@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="http://readme-typing-svg.herokuapp.com/?
-    font=Righteous&size=35center=true&vCenter=true&width=700&height=70&duration=3500&lines=Hi!;+I+am+XAIHOF.;+Welcome+to+XOKSIS.;" />
+  <h1 src= http://readme-typing-svg.herokuapp.com/?
+   font=Righteous&size=35center=true&vCenter=true&width=700&height=70&duration=3500&lines=Hi!;+I+am+XAIHOF.;+Welcome+to+XOKSIS.; </h1>
 </h1>
+
 <h3 align="center">A passionate Android and IOS Application developer from Pakistan.</h3>
 
 <img align="right" alt="loading" width="350" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
