@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Android and IOS Application developer from Pakistan.</h3>
 
-<img align="right" alt="loading" width="350" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
+<img align="right" alt="loading" width="350" src="https://lh3.googleusercontent.com/proxy/dVpile49vM5L9BSma6nov2Irqxwwddaw7o4x0juhFmS5kL9vTAa0JaLnKwCB7W3dIwK6ARBe1hGizqwnXWifftsU-udkeo7CegWPDUzdCDdXbMiLPumXMsOz140XGKyTexIiF-9FaOTNBOABoWwCuKwvIheqRQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaihof&label=Profile%20views&color=0e75b6&style=flat" alt="xaihof" /> </p>
 
