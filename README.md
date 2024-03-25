@@ -4,10 +4,7 @@
 
 <h3 align="center">A passionate Android and IOS Application developer from Pakistan.</h3>
 
-<img align="right" alt="loading" width="350" src="https://github.com/Xaihof/XAIHOF/assets/115226508/c8d54714-7c98-457c-83bc-23df2b9ffa2a">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaihof&label=Profile%20views&color=0e75b6&style=flat" alt="xaihof" /> </p>
-
 
 - 🔭 I’m currently working on **Android Studio, Flutter**
 
